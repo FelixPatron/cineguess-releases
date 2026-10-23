@@ -46,14 +46,21 @@ CineGuess, film tahmin oyunudur. Tek başına ya da arkadaşlarınla takım olar
 
 ## 🆕 Son Güncellemeler
 
-### v1.0 - İlk Sürüm
-- 🎉 CineGuess ilk kez yayında!
-- Film tahmin oyunu, hızlı eşleşme, oda kodu ve takım modu
-- Arkadaşlar, özel mesajlar, klanlar ve sıralama
-- Sesli konuşma, sesli mesaj ve görsel gönderme
-- Uygulama içi güncelleme desteği
+### Sürüm 16 · 20 Ekim 2026 (en güncel)
+- 🎨 Tasarım ve güvenlik düzenlemeleri
 
-> Her yeni sürümün tam değişiklik listesini [Releases](https://github.com/FelixPatron/cineguess-releases/releases) sayfasında bulabilirsin.
+### Sürüm 15 · 20 Ekim 2026
+- 👤 Profil ve bildirim düzenlemeleri
+
+### Sürüm 11 · 20 Ekim 2026
+- 🖥️ Arayüz değişiklikleri
+- 🌍 Yabancı oyuncularla oyun mekaniği
+
+### Sürüm 10 · 20 Ekim 2026
+- 🤝 Arkadaş isteği butonu düzeltildi
+- 💬 Geri bildirim özelliği eklendi
+
+> Tüm sürümleri ve APK dosyalarını [Releases](https://github.com/FelixPatron/cineguess-releases/releases) sayfasında bulabilirsin.
 
 ## 🔒 Gizlilik
 
