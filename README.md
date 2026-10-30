@@ -46,7 +46,19 @@ CineGuess, film tahmin oyunudur. Tek başına ya da arkadaşlarınla takım olar
 
 ## 🆕 Son Güncellemeler
 
-### Sürüm 16 · 20 Ekim 2026 (en güncel)
+### Sürüm 32 · 31 Ekim 2026 (en güncel)
+- 🌍 Dil seçenekleri getirildi
+
+### Sürüm 27 · 30 Ekim 2026
+- 🛠️ Genel iyileştirmeler ve hata düzeltmeleri
+
+### Sürüm 23 · 27 Ekim 2026
+- 🛍️ Market, coin ve görev sistemleri eklendi
+
+### Sürüm 17 · 22 Ekim 2026
+- ⚡ Hızlı eşleşme hatası düzeltildi
+
+### Sürüm 16 · 20 Ekim 2026
 - 🎨 Tasarım ve güvenlik düzenlemeleri
 
 ### Sürüm 15 · 20 Ekim 2026
